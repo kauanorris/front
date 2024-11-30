@@ -23,6 +23,11 @@
       "react-app/jest"
     ]
   },
+  
+    "dependencies": {
+      "bootstrap": "^5.3.0" 
+    },
+
   "browserslist": {
     "production": [
       ">0.2%",
